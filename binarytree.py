@@ -14,7 +14,7 @@ def randint(begin=1, end=100):
 
 def gen_tree(depth=3, iterable=None):
 
-    """Generate binary tree of specified depth.
+    """Generate a balanced binary tree of specified depth.
 
     If 'iterable' is supplied, the values of the
     nodes will be sourced from the iterable. Otherwise,
