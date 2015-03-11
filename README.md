@@ -1,4 +1,4 @@
 # binarytree
 
 
-![ipython screenshot](https://raw.githubusercontent.com/samstav/binarytree/master/btss.png)
+![ipython screenshot](https://raw.githubusercontent.com/samstav/binarytree/master/btsss.png)
